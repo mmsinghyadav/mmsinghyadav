@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mmsinghyadav
+- 👋 Hi, I’m Mahendra Mohan Singh Yadav
 - 👀 I’m interested in Frontend Developement
 - 🌱 I’m currently learning React and Backend
 - 📫 How to reach me - email: ydvmmsingh@gmail.com
